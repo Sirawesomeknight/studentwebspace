@@ -12,6 +12,9 @@ font-family:Comic Sans MS;
 p{
 font-family:Comic Sans MS;
 }
+hr{
+color:black;
+}
 /*
 Fix center styling
 */
@@ -35,7 +38,7 @@ padding:0px;
 }
 #left{
 width:25%;
-height:10px;
+height:20px;
 position:absolute;
 margin-left:95%;
 margin-top:0px;
