@@ -8,15 +8,6 @@ alert("Made By: James Hulsizer in Affiliation with the Francis W. Parker School 
 function logout(){
 location.href = "index.html";
 }
-function IEdmodo(){
-var b = true;
-window.localStorage.setItem("eddata",b);
-}
-function IGClass(){
-var c = true;
-window.localStorage.setItem("GCdata",c);
-}
-function ISchlo(){
-var d = true;
-window.localStorage.setItem("Scdata",d);
+function atype(){
+alert("Through Email, Through StudentSources, Through HW website");
 }

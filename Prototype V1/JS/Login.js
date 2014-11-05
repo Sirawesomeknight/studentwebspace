@@ -1,3 +1,6 @@
+function load(){
+localStorage.clear();
+}
 function login(){
 var user = document.getElementById("usr").value;
 var pass = document.getElementById("pwd").value;

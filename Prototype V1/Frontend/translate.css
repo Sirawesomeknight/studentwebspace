@@ -7,10 +7,13 @@ position:absolute;
 background-color:yellow;
 }
 h1{
-font-family:Comic Sans MS;
+font-family:Verdana;
 }
 p{
-font-family:Comic Sans MS;
+font-family:Verdana;
+}
+hr{
+color:black;
 }
 /*
 Fix center styling
@@ -62,7 +65,7 @@ position:absolute;
 #transd{
 width:100px;
 height:30px;
-margin-left:45%;
+margin-left:35%;
 margin-top:10px;
 background-color:black;
 position:absolute;
@@ -70,7 +73,15 @@ position:absolute;
 #calend{
 width:100px;
 height:30px;
-margin-left:75%;
+margin-left:60%;
+margin-top:10px;
+background-color:black;
+position:absolute;
+}
+#profiled{
+width:100px;
+height:30px;
+margin-left:85%;
 margin-top:10px;
 background-color:black;
 position:absolute;
@@ -93,7 +104,13 @@ height:30px;
 margin-left:25%;
 position:relative;
 }
-#homel{
+#midlink4{
+width:75%;
+height:30px;
+margin-left:25%;
+position:relative;
+}
+#transl{
 color:gray;
 }
 a:visited{
