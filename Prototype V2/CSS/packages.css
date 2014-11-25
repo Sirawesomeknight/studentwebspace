@@ -93,7 +93,7 @@ height:89%;
 margin-top:11%;
 background-color:black;
 position:absolute;
-text-align:center;
+text-align:left;
 }
 #picturediv{
 width:50%;
@@ -109,6 +109,7 @@ border-style:groove;
 border-width:5px;
 border-color:yellow;
 margin-top:10%;
+text-align:center;
 }
 #news{
 margin-top:20%;
@@ -116,6 +117,7 @@ background-color:purple;
 border-style:groove;
 border-width:5px;
 border-color:gray;
+text-align:center;
 }
 #soc{
 margin-top:30%;
@@ -123,6 +125,7 @@ background-color:blue;
 border-style:groove;
 border-width:5px;
 border-color:white;
+text-align:center;
 }
 #soca1{
 width:1%;
